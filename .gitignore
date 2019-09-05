@@ -1,6 +1,9 @@
 monitor
 a.out
 settings.json
+CMakeFiles/
+CMakeCache*
+*.cmake
 *.o
 build/*
 *.json
